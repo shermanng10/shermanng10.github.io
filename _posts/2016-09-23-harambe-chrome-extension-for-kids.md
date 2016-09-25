@@ -4,12 +4,18 @@ title: "Building a Chrome Extension in ES6 FOR KIDS!"
 date: 2016-09-23
 excerpt: "Utilizing ES6 and the Chrome API to build an extension in remembrance of Harambe."
 tags: [tutorial, code, for kids, javascript, es2015, es6, chrome extension, harambe]
-feature: http://i.imgur.com/Ds6S7lJ.png
+feature: assets/img/post_images/2016-09-23-harambe-feature-photo.jpg
 comments: true
 ---
 
 ## What we will be building:
 In the current digital age, we are constantly bombarded with all different types of media telling us how we should look, how we should act, and how we should feel. We tend to forget about the things that matter, so today we will be building a Chrome extension that will always remind us to not take our lives for granted. InMemoriam is a Chrome extension that will replace all images on every website you visit with a wonderful photo of Harambe.
+
+
+<figure>
+	<img src="/assets/img/post_images/2016-09-23-harambe.png">
+	<figcaption><a href="/assets/img/post_images/2016-09-23-harambe.png" title="InMemoriam in action">InMemoriam in action</a></figcaption>
+</figure>
 
 ## What we need to get started:
 * A computer
