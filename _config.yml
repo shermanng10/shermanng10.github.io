@@ -6,7 +6,7 @@ reading_time:       true
 words_per_minute:   200
 tiled_bg:           false
 locale:             en_US
-url:                http://shermanmakes.com
+url:                https://shermanmakes.com
 google:
   analytics: UA-84668796-1
 
